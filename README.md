@@ -14,4 +14,4 @@
     git pull  ___________________ to DOWNload
     git push ____________________ to UPload
     ```
-    
+    conflict
