@@ -15,3 +15,4 @@
     git push ____________________ to UPload
     ```
     conflict
+    coflict solved? merged
