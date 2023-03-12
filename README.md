@@ -9,4 +9,9 @@
     ```
     git remote add <name of reposit> <URL>
     ```
+       Meging with remote reposit with 
+    ```
+    git pull  ___________________ to DOWNload
+    git push ____________________ to UPload
+    ```
     
